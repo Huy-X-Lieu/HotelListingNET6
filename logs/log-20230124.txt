@@ -18,3 +18,107 @@
 2023-01-24 01:20:46.521 -07:00 [INF] HTTP GET /WeatherForecast responded 200 in 0.3137 ms
 2023-01-24 01:20:52.553 -07:00 [INF] Shut down complete
 2023-01-24 01:21:29.472 -07:00 [INF] Shut down complete
+2023-01-24 02:14:16.138 -07:00 [FTL] Unhandled exception
+Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException: Exception of type 'Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException' was thrown.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in D:\learn\CSharp\blazor\HotelListingNET6\HotelListingAPI\Program.cs:line 47
+2023-01-24 02:14:16.266 -07:00 [INF] Shut down complete
+2023-01-24 02:15:02.865 -07:00 [FTL] Unhandled exception
+Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException: Exception of type 'Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException' was thrown.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in D:\learn\CSharp\blazor\HotelListingNET6\HotelListingAPI\Program.cs:line 47
+2023-01-24 02:15:02.909 -07:00 [INF] Shut down complete
+2023-01-24 02:18:49.063 -07:00 [FTL] Unhandled exception
+Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException: Exception of type 'Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException' was thrown.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in D:\learn\CSharp\blazor\HotelListingNET6\HotelListingAPI\Program.cs:line 47
+2023-01-24 02:18:49.110 -07:00 [INF] Shut down complete
+2023-01-24 02:38:38.697 -07:00 [FTL] Unhandled exception
+Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException: Exception of type 'Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException' was thrown.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in D:\learn\CSharp\blazor\HotelListingNET6\HotelListingAPI\Program.cs:line 47
+2023-01-24 02:38:38.747 -07:00 [INF] Shut down complete
+2023-01-24 02:38:47.606 -07:00 [FTL] Unhandled exception
+Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException: Exception of type 'Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException' was thrown.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in D:\learn\CSharp\blazor\HotelListingNET6\HotelListingAPI\Program.cs:line 47
+2023-01-24 02:38:47.664 -07:00 [INF] Shut down complete
+2023-01-24 02:53:11.567 -07:00 [FTL] Unhandled exception
+Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException: Exception of type 'Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException' was thrown.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in D:\learn\CSharp\blazor\HotelListingNET6\HotelListingAPI\Program.cs:line 47
+2023-01-24 02:53:11.626 -07:00 [INF] Shut down complete
+2023-01-24 02:53:22.323 -07:00 [FTL] Unhandled exception
+Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException: Exception of type 'Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException' was thrown.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in D:\learn\CSharp\blazor\HotelListingNET6\HotelListingAPI\Program.cs:line 47
+2023-01-24 02:53:22.370 -07:00 [INF] Shut down complete
+2023-01-24 02:54:39.299 -07:00 [FTL] Unhandled exception
+Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException: Exception of type 'Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException' was thrown.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in D:\learn\CSharp\blazor\HotelListingNET6\HotelListingAPI\Program.cs:line 47
+2023-01-24 02:54:39.346 -07:00 [INF] Shut down complete
+2023-01-24 02:54:50.629 -07:00 [FTL] Unhandled exception
+Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException: Exception of type 'Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException' was thrown.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in D:\learn\CSharp\blazor\HotelListingNET6\HotelListingAPI\Program.cs:line 47
+2023-01-24 02:54:50.694 -07:00 [INF] Shut down complete
+2023-01-24 02:55:11.322 -07:00 [FTL] Unhandled exception
+Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException: Exception of type 'Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException' was thrown.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in D:\learn\CSharp\blazor\HotelListingNET6\HotelListingAPI\Program.cs:line 47
+2023-01-24 02:55:11.369 -07:00 [INF] Shut down complete
+2023-01-24 02:55:20.516 -07:00 [FTL] Unhandled exception
+Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException: Exception of type 'Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException' was thrown.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in D:\learn\CSharp\blazor\HotelListingNET6\HotelListingAPI\Program.cs:line 47
+2023-01-24 02:55:20.566 -07:00 [INF] Shut down complete
+2023-01-24 12:01:30.262 -07:00 [FTL] Unhandled exception
+Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException: Exception of type 'Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException' was thrown.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in D:\learn\CSharp\blazor\HotelListingNET6\HotelListingAPI\Program.cs:line 47
+2023-01-24 12:01:30.420 -07:00 [INF] Shut down complete
+2023-01-24 12:02:11.467 -07:00 [FTL] Unhandled exception
+Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException: Exception of type 'Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException' was thrown.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in D:\learn\CSharp\blazor\HotelListingNET6\HotelListingAPI\Program.cs:line 47
+2023-01-24 12:02:11.526 -07:00 [INF] Shut down complete
