@@ -1,0 +1,20 @@
+2023-01-24 00:22:29.150 -07:00 [INF] HTTP GET /WeatherForecast responded 200 in 0.4761 ms
+2023-01-24 00:22:38.550 -07:00 [INF] HTTP GET /WeatherForecast responded 200 in 0.2056 ms
+2023-01-24 00:22:47.617 -07:00 [INF] HTTP GET /WeatherForecast responded 200 in 0.0900 ms
+2023-01-24 00:22:52.599 -07:00 [INF] HTTP GET /WeatherForecast responded 200 in 0.0898 ms
+2023-01-24 00:22:56.356 -07:00 [INF] HTTP GET /WeatherForecast responded 200 in 0.2191 ms
+2023-01-24 00:22:59.090 -07:00 [INF] HTTP GET /WeatherForecast responded 200 in 0.1630 ms
+2023-01-24 00:23:05.945 -07:00 [INF] HTTP GET /WeatherForecast responded 200 in 0.1101 ms
+2023-01-24 00:23:09.665 -07:00 [INF] HTTP GET /WeatherForecast responded 200 in 0.1585 ms
+2023-01-24 00:23:13.822 -07:00 [INF] HTTP GET /WeatherForecast responded 200 in 0.2006 ms
+2023-01-24 00:23:18.113 -07:00 [INF] HTTP GET /WeatherForecast responded 200 in 0.1882 ms
+2023-01-24 00:59:34.991 -07:00 [INF] Shut down complete
+2023-01-24 01:05:38.172 -07:00 [INF] HTTP GET /WeatherForecast responded 200 in 33.0714 ms
+2023-01-24 01:05:39.631 -07:00 [INF] HTTP GET /WeatherForecast responded 200 in 0.6496 ms
+2023-01-24 01:05:47.006 -07:00 [INF] Shut down complete
+2023-01-24 01:20:37.998 -07:00 [INF] HTTP GET /WeatherForecast responded 200 in 25.6890 ms
+2023-01-24 01:20:40.793 -07:00 [INF] HTTP GET /WeatherForecast responded 200 in 0.8672 ms
+2023-01-24 01:20:43.813 -07:00 [INF] HTTP GET /WeatherForecast responded 200 in 2.2281 ms
+2023-01-24 01:20:46.521 -07:00 [INF] HTTP GET /WeatherForecast responded 200 in 0.3137 ms
+2023-01-24 01:20:52.553 -07:00 [INF] Shut down complete
+2023-01-24 01:21:29.472 -07:00 [INF] Shut down complete

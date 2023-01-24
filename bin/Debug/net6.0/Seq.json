@@ -1,0 +1,75 @@
+{
+  "api": {
+    "avoidLdap": false,
+    "canonicalUri": null,
+    "corsAllowedOrigins": [],
+    "frameAncestors": [],
+    "hardSessionExpirySeconds": null,
+    "hstsIncludeSubDomains": false,
+    "hstsMaxAge": 31536000,
+    "idleSessionExpirySeconds": 172800,
+    "ingestionPort": null,
+    "integratedAuthenticationScheme": null,
+    "listenUris": [
+      "http://localhost:5341/"
+    ],
+    "redirectHttpToHttps": false,
+    "minRequestBodyDataRateBytesPerSecond": 240.0,
+    "minRequestBodyDataRateGracePeriodMilliseconds": 5000
+  },
+  "cache": {
+    "largeObjectHeapCompaction": "Default",
+    "systemRamTarget": null,
+    "activeFilePageDiscount": null
+  },
+  "certificates": {
+    "certificatesPath": null,
+    "defaultPassword": null
+  },
+  "diagnostics": {
+    "internalLogPath": "C:\\ProgramData\\Seq\\Logs",
+    "internalLoggingLevel": "Information",
+    "internalLogServerApiKey": null,
+    "internalLogServerUrl": null,
+    "metricsSamplingIntervalSeconds": 300,
+    "nativeStorageMetricsSamplingIntervalMinutes": 60,
+    "telemetryServerUrl": null
+  },
+  "features": {
+    "enabled": []
+  },
+  "firstRun": {
+    "adminPasswordHash": "FAvhj3am0CEvvvhOL5REfszXm92kHvzBYMJpmsqo5ibkzPdEGw==",
+    "adminUsername": "admin",
+    "requireAuthenticationForHttpIngestion": false
+  },
+  "metastore": {
+    "msSql": {
+      "connectionString": null,
+      "msiResource": null,
+      "msiTenantId": null,
+      "schema": null
+    },
+    "postgres": {
+      "connectionString": null,
+      "schema": null
+    }
+  },
+  "secretKey": {
+    "provider": null,
+    "providerArgs": null
+  },
+  "services": {
+    "servicesBaseUri": null
+  },
+  "storage": {
+    "secretKey": "pmk.AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAtYR4WHKY7EC6efriWmr2tgQAAAACAAAAAAAQZgAAAAEAACAAAABTGL4ADwnK9owUSlKAQoAsveLu7wDhQoGp759liA1r0AAAAAAOgAAAAAIAACAAAAAV/kqjCA7+hTK4T+QI6+cQ/0qgE5lC4j1dUME69C8UhTAAAAB6eJ2jBzReeBNi2gl1jDvC07LRW/LV85b3uEoQAFUtCMJemOVunVfrd/do4kQxaAFAAAAAkMBHokC8547OnmxthK6p/zFXaJQ0d7FKn+2YgtzJ5nk82eSjoclLbNp1GYK1ZfN9QnfAkIBBwNaeZutNb71PAA==$tDKuODndTR5IOuedhcqdmg==",
+    "flare": {
+      "diskReaderLimit": 5,
+      "indexerPriority": 0.0,
+      "queryParallelism": 4
+    },
+    "disableFreeDiskSpaceChecking": false,
+    "maximumFutureTimestampDriftSeconds": 3420
+  }
+}
